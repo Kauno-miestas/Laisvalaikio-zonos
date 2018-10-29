@@ -1,2 +1,2 @@
 # Laisvalaikio-zonos
-Parkai, laisvalaikio, sporto zonos
+Laisvalaikio, sporto zonos
